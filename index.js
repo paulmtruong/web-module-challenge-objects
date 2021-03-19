@@ -70,7 +70,7 @@ Using the reviews array above:
   1. log only Julius' feedback to the console - no function needed 
 */
 
-
+console.log()
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -122,7 +122,7 @@ Use the getLastReview function below to do the following:
 
 
 function getLastReview(/*Your code here*/) {
-  /*Your code here*/
+  /*Your code here*/ //array.length -1
 } 
 
 
